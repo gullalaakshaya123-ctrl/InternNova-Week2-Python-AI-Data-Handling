@@ -1,0 +1,14 @@
+
+DATA VISUALIZATION EXPLANATION
+
+1. BAR CHART:
+The bar chart compares the marks obtained by different students. Sneha scored the highest marks (96), while Rahul scored the lowest (45).
+
+2. LINE CHART:
+The line chart displays attendance percentages of students. It helps identify variations in attendance. Sneha has the highest attendance of 98%.
+
+3. HISTOGRAM:
+The histogram shows the distribution of student marks. Most students scored between 76 and 95.
+
+4. SCATTER PLOT:
+The scatter plot represents the relationship between attendance and marks. It shows a generally positive relationship, where students with higher attendance tend to have higher marks, although there are exceptions.

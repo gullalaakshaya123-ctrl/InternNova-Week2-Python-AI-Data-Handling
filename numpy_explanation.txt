@@ -1,0 +1,16 @@
+
+NUMPY FUNDAMENTALS
+
+NumPy stands for Numerical Python. It is a Python library used for numerical computations and working with arrays.
+
+1. NumPy arrays store multiple values in a single variable.
+2. A 1D array contains elements in a single row.
+3. A 2D array contains elements arranged in rows and columns.
+4. Indexing is used to access individual array elements.
+5. Slicing is used to access a specific range of elements.
+6. Shape represents the number of rows and columns.
+7. Dimensions represent the number of axes in an array.
+8. NumPy supports mathematical operations such as addition, subtraction, multiplication and division.
+9. Statistical functions include mean(), max(), min() and sum().
+
+NumPy makes numerical calculations easier, faster and more efficient.

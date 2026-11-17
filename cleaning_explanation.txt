@@ -1,0 +1,21 @@
+
+DATA CLEANING EXPLANATION
+
+Data cleaning is the process of identifying and correcting errors in a dataset.
+
+1. Loaded the uncleaned student dataset using Pandas.
+2. Identified missing values in Age, Marks and Attendance columns.
+3. Counted missing values using isnull().sum().
+4. Filled missing values using the mean of each column.
+5. Identified duplicate records using duplicated().
+6. Removed duplicate records using drop_duplicates().
+7. Converted Age, Marks and Attendance into integer data types.
+8. Saved the cleaned dataset as cleaned_student_data.csv.
+
+RESULT:
+
+Before cleaning, the dataset contained 11 rows, 3 missing values and 1 duplicate record.
+
+After cleaning, the dataset contained 10 rows, zero missing values and zero duplicate records.
+
+The dataset is now cleaner and ready for further analysis.

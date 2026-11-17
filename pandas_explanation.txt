@@ -1,0 +1,16 @@
+
+PANDAS AND DATASET HANDLING
+
+Pandas is a Python library used for data manipulation and analysis.
+
+1. DataFrame is a two-dimensional table containing rows and columns.
+2. read_csv() is used to load CSV files.
+3. head() displays the first five rows.
+4. tail() displays the last five rows.
+5. shape returns the number of rows and columns.
+6. dtypes displays the data types of columns.
+7. describe() provides statistical information.
+8. Specific columns can be selected using column names.
+9. Conditional filtering helps select records based on conditions.
+
+Pandas makes it easier to organize, explore and analyze structured datasets.

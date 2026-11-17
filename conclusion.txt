@@ -1,0 +1,11 @@
+**CONCLUSION – STUDENT PERFORMANCE DATA ANALYSIS**
+
+The Student Performance Data Analysis project helped me understand how Python can be used to analyze and interpret student academic data. Using Pandas, I loaded the dataset, explored important columns and identified missing values and duplicate records.
+
+During data cleaning, I handled missing values by replacing them with the respective column means and removed duplicate records to improve data quality. I then calculated important performance statistics, including average marks, highest marks, lowest marks, and the number of students who passed and failed.
+
+The analysis showed that 9 out of 10 students passed, while 1 student failed based on the assumed passing score of 50 marks. Sneha achieved the highest score of 96, whereas Rahul obtained the lowest score of 45.
+
+I also created bar charts, a histogram and a pie chart to understand student performance visually. These visualizations made it easier to identify patterns and compare results.
+
+Overall, this project improved my practical knowledge of Python, Pandas, data cleaning, statistical analysis and Matplotlib visualization.
